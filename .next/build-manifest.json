@@ -1,0 +1,51 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-ce3de2759fc07ef21d2f.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/kgrBUNgD8CzmBXZdILBRB/_buildManifest.js",
+    "static/kgrBUNgD8CzmBXZdILBRB/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/main-ce415595e326ddbb1204.js",
+      "static/chunks/webpack-eb080e3f091731f228fb.js",
+      "static/chunks/framework.5d60beefb1049bf36b51.js",
+      "static/chunks/commons.66224b508c8415bd28c6.js",
+      "static/chunks/9379ce7d5a7c23b12724c8b6bf31281b42a72054.93e50580176374c488fa.js",
+      "static/chunks/eb16be946c84df9a31417056729c68884fb5f60e.6827ba38d44bba254ea7.js",
+      "static/chunks/pages/index-1c924766928b21eb2927.js"
+    ],
+    "/_app": [
+      "static/chunks/main-ce415595e326ddbb1204.js",
+      "static/chunks/webpack-eb080e3f091731f228fb.js",
+      "static/chunks/framework.5d60beefb1049bf36b51.js",
+      "static/chunks/484bcb1e.10d090dad0ca32bf2bd6.js",
+      "static/chunks/commons.66224b508c8415bd28c6.js",
+      "static/chunks/9379ce7d5a7c23b12724c8b6bf31281b42a72054.93e50580176374c488fa.js",
+      "static/chunks/95e211f12e48954a542d85a9e64c90dff8d95352.267772c208ac4b809e3a.js",
+      "static/chunks/pages/_app-5ba063d6b4d0c8c6a661.js"
+    ],
+    "/_error": [
+      "static/chunks/main-ce415595e326ddbb1204.js",
+      "static/chunks/webpack-eb080e3f091731f228fb.js",
+      "static/chunks/framework.5d60beefb1049bf36b51.js",
+      "static/chunks/commons.66224b508c8415bd28c6.js",
+      "static/chunks/pages/_error-a669f884ce0109106840.js"
+    ],
+    "/game": [
+      "static/chunks/main-ce415595e326ddbb1204.js",
+      "static/chunks/webpack-eb080e3f091731f228fb.js",
+      "static/chunks/framework.5d60beefb1049bf36b51.js",
+      "static/chunks/484bcb1e.10d090dad0ca32bf2bd6.js",
+      "static/chunks/commons.66224b508c8415bd28c6.js",
+      "static/chunks/9379ce7d5a7c23b12724c8b6bf31281b42a72054.93e50580176374c488fa.js",
+      "static/chunks/95e211f12e48954a542d85a9e64c90dff8d95352.267772c208ac4b809e3a.js",
+      "static/chunks/eb16be946c84df9a31417056729c68884fb5f60e.6827ba38d44bba254ea7.js",
+      "static/chunks/pages/game-61b8330bcd355406dd5f.js"
+    ]
+  },
+  "ampFirstPages": []
+}
